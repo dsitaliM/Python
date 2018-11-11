@@ -2,8 +2,7 @@
 
 ### All algorithms implemented in F# (for education)
 
-These implementations are for demonstration purposes. They are less efficient than the implementations in the Python standard library.
-
+These implementations are for demonstration purposes
 ## Sorting Algorithms
 
 
