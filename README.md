@@ -1,6 +1,6 @@
-# The Algorithms - Python <!-- [![Build Status](https://travis-ci.org/TheAlgorithms/Python.svg)](https://travis-ci.org/TheAlgorithms/Python) -->
+# The Algorithms - F# 
 
-### All algorithms implemented in Python (for education)
+### All algorithms implemented in F# (for education)
 
 These implementations are for demonstration purposes. They are less efficient than the implementations in the Python standard library.
 
